@@ -9,6 +9,8 @@ This project aims to uncover valuable business insights for Atliq Hardware, a le
 AtliQ Hardwares is a leading computer hardware producer based in India, with a growing presence in international markets. As the business expands, management needs timely and meaningful insights to make informed business decisions.
 
 This project simulates a real-world business scenario in which I take on the role of a Junior Data Analyst, working on ad-hoc business requests from the management team.
+<img width="1280" height="720" alt="Slide4" src="https://github.com/user-attachments/assets/8cea4249-4afa-439d-bc42-f90cd75cd891" />
+
 
 # Business Problem
 
