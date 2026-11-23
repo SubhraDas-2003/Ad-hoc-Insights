@@ -85,6 +85,8 @@ This project addresses 10 ad-hoc business requests to derive insights into sales
 8.  Identify the quarter with the highest sold quantity in 2020.
 9.  Identify the top-performing sales channel based on gross sales and contribution percentage.
 10. Identify the top 3 best-selling products within each division based on sales quantity in 2021.
+<img width="1280" height="720" alt="Slide8" src="https://github.com/user-attachments/assets/f2b3a8a1-4f16-4e0a-83a3-7ff8e59b0c03" />
+
 
 # Key Insights & Findings
 
