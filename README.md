@@ -93,14 +93,23 @@ This project addresses 10 ad-hoc business requests to derive insights into sales
 The SQL analysis revealed several important business insights that can support better decision-making:
 
 1. **Market Analysis:** Identified the APAC markets where AtliQ Exclusive operates, providing an overview of its regional presence.
+<img width="1280" height="720" alt="Slide9" src="https://github.com/user-attachments/assets/4d874059-b51e-48d4-a109-81e50aa5eec4" />
+
 
 2. **Product Growth:** Observed a **36.33% increase** in unique products in 2021 compared to 2020, highlighting the company's expanding product portfolio.
+<img width="1280" height="720" alt="Slide10" src="https://github.com/user-attachments/assets/f602a7e7-1491-41f6-bd37-de7251f15970" />
+
 
 3. **Product Distribution:** Notebooks, Accessories, and Peripherals emerged as the segments with the highest product variety.
+<img width="1280" height="720" alt="Slide11" src="https://github.com/user-attachments/assets/bf19de52-4cbf-4bf1-9709-46360fe67adc" />
+
 
 4. **Segment Growth:** Accessories and Notebooks recorded the highest growth in unique products during 2021.
+<img width="1280" height="720" alt="Slide12" src="https://github.com/user-attachments/assets/978d4053-3297-4c92-a233-5949f84b0f7d" />
+
 
 5. **Manufacturing Cost Analysis:** Identified AQ Home Alin 1 Gen 2 Desktop as the highest-cost product and AQ Master Wired Mouse as the lowest-cost product, offering insights into production costs.
+
 
 6. **Discount Analysis:** Flipkart recorded the highest average pre-invoice discount, highlighting differences in customer discount strategies.
 
