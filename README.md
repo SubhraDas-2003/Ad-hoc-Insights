@@ -10,6 +10,8 @@ AtliQ Hardwares is a leading computer hardware producer based in India, with a g
 
 This project simulates a real-world business scenario in which I take on the role of a Junior Data Analyst, working on ad-hoc business requests from the management team.
 <img width="1280" height="720" alt="Slide4" src="https://github.com/user-attachments/assets/8cea4249-4afa-439d-bc42-f90cd75cd891" />
+<img width="1280" height="720" alt="Slide5" src="https://github.com/user-attachments/assets/d3357523-490a-44c6-8a86-e58c304715a4" />
+
 
 
 # Business Problem
