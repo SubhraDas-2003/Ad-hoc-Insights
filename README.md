@@ -109,17 +109,29 @@ The SQL analysis revealed several important business insights that can support b
 
 
 5. **Manufacturing Cost Analysis:** Identified AQ Home Alin 1 Gen 2 Desktop as the highest-cost product and AQ Master Wired Mouse as the lowest-cost product, offering insights into production costs.
+<img width="1280" height="720" alt="Slide13" src="https://github.com/user-attachments/assets/1eaa46f4-7739-4d3b-970f-2c0b5cf680ae" />
+
 
 
 6. **Discount Analysis:** Flipkart recorded the highest average pre-invoice discount, highlighting differences in customer discount strategies.
+<img width="1280" height="720" alt="Slide14" src="https://github.com/user-attachments/assets/cf91a2f5-15e3-4470-bf2c-4a5a1a5a47ef" />
+
 
 7. **Monthly Sales Trends:** November recorded the highest gross sales, while March had the lowest, providing useful insights for seasonal sales planning.
+<img width="1280" height="720" alt="Slide15" src="https://github.com/user-attachments/assets/c85a70ef-6bed-4134-aefb-9923243ae42e" />
+
 
 8. **Quarterly Performance:** Q1 recorded the highest total sold quantity in 2020, highlighting the importance of effective inventory planning.
+<img width="1280" height="720" alt="Slide16" src="https://github.com/user-attachments/assets/b331f031-983c-4e48-b944-b6c1ffbd61ef" />
+
 
 9. **Sales Channel Performance:** Retailers contributed **73.22% of total gross sales** in 2021, demonstrating their significant role in revenue generation.
+<img width="1280" height="720" alt="Slide17" src="https://github.com/user-attachments/assets/ab7e9c98-a8a5-4317-acec-651313a7a962" />
+
 
 10. **Top-Selling Products:** Pen drives and gaming accessories emerged among the top-selling products across divisions, providing insights into product demand and sales performance.
+<img width="1280" height="720" alt="Slide18" src="https://github.com/user-attachments/assets/e680b792-a7c1-41c3-b69a-cdaf369ed16e" />
+
 
 # Business Value
 
