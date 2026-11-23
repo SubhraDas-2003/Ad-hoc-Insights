@@ -1,2 +1,2 @@
-# Ad-hoc-Insights
-Consumer Goods Domain | AtliQ Hardware
+# Ad-hoc-Insights in the Consumer Goods Domain 
+AtliQ Hardware Business Analysis
