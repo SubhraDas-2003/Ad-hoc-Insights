@@ -2,7 +2,7 @@
 AtliQ Hardware Business Analysis
 # Project Introduction :
 This project aims to uncover valuable business insights for Atliq Hardware, a leading computer peripherals company, using SQL-based ad-hoc analysis. Developed as part of the [Codebasics Resume Project Challenge](https://codebasics.io/challenges/codebasics-resume-project-challenge/7), it demonstrates how data-driven insights can support strategic decision-making and address real-world business challenges.
-# Project Introduction
+# Overview
 
 AtliQ Hardwares is a leading computer hardware producer based in India, with a growing presence in international markets. As the business expands, management needs timely and meaningful insights to make informed business decisions.
 
@@ -100,7 +100,7 @@ The SQL analysis revealed several important business insights that can support b
 
 10. **Top-Selling Products:** Pen drives and gaming accessories emerged among the top-selling products across divisions, providing insights into product demand and sales performance.
 
-# Expected Business Value
+# Business Value
 
 The project demonstrates how SQL-driven analysis can help management gain better visibility into business performance, identify important trends, and make informed decisions.
 
