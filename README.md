@@ -1,5 +1,7 @@
 # Ad-hoc-Insights in the Consumer Goods Domain 
 AtliQ Hardware Business Analysis
+<img width="1280" height="720" alt="Slide1" src="https://github.com/user-attachments/assets/49bd2393-8e25-479c-b70a-cc88bb225fa8" />
+
 # Project Introduction :
 This project aims to uncover valuable business insights for Atliq Hardware, a leading computer peripherals company, using SQL-based ad-hoc analysis. Developed as part of the [Codebasics Resume Project Challenge](https://codebasics.io/challenges/codebasics-resume-project-challenge/7), it demonstrates how data-driven insights can support strategic decision-making and address real-world business challenges.
 # Overview
@@ -105,3 +107,5 @@ The SQL analysis revealed several important business insights that can support b
 The project demonstrates how SQL-driven analysis can help management gain better visibility into business performance, identify important trends, and make informed decisions.
 
 It also highlights the importance of translating raw data into meaningful insights that can support business growth and strategic planning.
+
+
