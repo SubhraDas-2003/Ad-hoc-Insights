@@ -15,6 +15,8 @@ This project simulates a real-world business scenario in which I take on the rol
 AtliQ Hardwares' management identified a gap in its ability to access actionable insights quickly. Without sufficient analytical insights, making effective and data-driven business decisions becomes challenging.
 
 To address this challenge, the company decided to strengthen its data analytics team by hiring junior data analysts with strong technical and communication skills.
+<img width="1280" height="720" alt="Slide3" src="https://github.com/user-attachments/assets/333faaf8-ee21-495f-a517-ff5905b9f1c3" />
+
 
 # Project Objective
 
