@@ -39,6 +39,8 @@ The project uses the resources provided as part of the SQL challenge:
 - **Dataset:** Business data required for analysis.
 - **Metadata:** Information about tables, columns, and data relationships.
 - **Ad-hoc Requests:** A document containing 10 business questions.
+<img width="1280" height="720" alt="Slide7" src="https://github.com/user-attachments/assets/7cf0f991-f231-441f-a185-d664bfa56c62" />
+
 
 # Approach & Methodology
 
